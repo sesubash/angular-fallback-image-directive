@@ -2,7 +2,7 @@ angular-fallback-image-directive
 ================================
 
 <b>Directive for fallback image with &lt;img> tag</b><br/><br/>
-Bower installation: <br/><br/>
+Bower installation: <br/>
 bower install angular-fallback-image-directive
 
 Usage:<br/>
